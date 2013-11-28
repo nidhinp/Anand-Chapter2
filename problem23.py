@@ -1,3 +1,7 @@
+""" Write a program center_align to center align all lines in the given
+    file.
+"""
+
 import sys
 
 def longest_line(filename):

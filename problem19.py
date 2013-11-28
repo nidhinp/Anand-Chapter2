@@ -1,3 +1,8 @@
+""" Implement unix commands head and tail. The head and tail command take
+    a file as argument and print its first and last 10 lines of the file
+    respectively.
+"""
+
 import sys
 
 def head_and_tail(filename):

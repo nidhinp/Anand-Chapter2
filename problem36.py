@@ -1,3 +1,8 @@
+""" Write a program to find anagrams in a given list of words. Two words are called
+    anagrams if one word can be formed by rearranging letters to another. For example
+    'eat', 'ate' and 'tea' are anagrams.
+"""
+
 def sorted_characters_of_word(word):
 	b = sorted(word)
 	c = ''

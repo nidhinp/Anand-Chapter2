@@ -1,3 +1,6 @@
+""" Write a program to count frequency of characters in a given file.
+"""
+
 def countcharacter(filename):
 	frequency = {}
 	for character in open(filename).read():

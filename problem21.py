@@ -1,3 +1,7 @@
+""" Write a program that takes filename and width as arguments and
+    wraps the lines longer than width.
+"""
+
 import sys
 
 def wrapline(files, width):

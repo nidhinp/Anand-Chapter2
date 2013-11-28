@@ -1,3 +1,6 @@
+""" Reimplement the unique function implemented in the earlier example using sets.
+"""
+
 def unique(x):
 	return list(set(x))
 

@@ -1,3 +1,7 @@
+""" Cumulative sum of a list [a, b, c, ...] is defined as [a, a+b, a+b+c, ...].
+    Write a function cumulative_sum to compute sum of a list.
+"""
+
 def cumulative_sum(lists):
 	a = []
 	for x in lists:

@@ -1,3 +1,6 @@
+""" Sum function that works for a list of string as well
+"""
+
 def my_sum(x):
 	sum = x[0]
 	for i in x:

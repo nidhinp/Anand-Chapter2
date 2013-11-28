@@ -1,3 +1,7 @@
+""" Python has built-in functions min and max to compute minimum and maximum
+    of a list. Provide an implementation for these functions.
+"""
+
 def my_min(x):
 	min = x[0]
 	for i in x:

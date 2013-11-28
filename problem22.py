@@ -1,3 +1,7 @@
+""" A program that takes filename and width as arguments and breaks the 
+    line only at the word boundaries.
+"""
+
 import sys
 def file_line(filename):
 	line_list = []

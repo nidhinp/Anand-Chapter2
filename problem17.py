@@ -1,3 +1,6 @@
+""" Write a program to print lines of a file in reverse order.
+"""
+
 import sys
 
 def line_reverse(filename):

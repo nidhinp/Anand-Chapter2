@@ -1,3 +1,7 @@
+""" Write a function group(list, size) that takes a list and splits
+    into smaller lists of given size.
+"""
+
 def group(x, size):
 	count = len(x) / size
 	start = 0

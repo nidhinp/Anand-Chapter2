@@ -1,3 +1,8 @@
+""" Implement a unix command grep. The grep command takes a string and a file 
+    as arguments and prints all lines in the file which contains the specified
+    string.
+"""
+
 import sys
 
 def grep(filename, word):

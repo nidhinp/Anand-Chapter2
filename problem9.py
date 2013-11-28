@@ -1,3 +1,7 @@
+""" Write a function cumulative product to compute cumulative product of
+    a list of numbers.
+"""
+
 def product(lists):
 	product = 1
 	for x in lists:

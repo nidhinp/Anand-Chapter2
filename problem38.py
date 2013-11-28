@@ -1,3 +1,7 @@
+""" Write a function invertdict to interchange keys and values in a
+    dictionary. For simplicity assume all values are unique.
+"""
+
 def invertdict(dictionary):
 	a = {}
 	for x in dictionary:

@@ -1,3 +1,6 @@
+""" Write a function valuesort to sort values of a dictionary based on the key.
+"""
+
 import operator
 def valuesort(dictionary):
 	a = []

@@ -1,3 +1,6 @@
+""" Write a program to each line of a file in reverse order.
+"""
+
 import sys
 
 def each_line_reverse(filename):

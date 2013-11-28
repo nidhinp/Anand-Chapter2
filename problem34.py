@@ -1,3 +1,6 @@
+""" Print the words in the descending order of the number of occurances.
+"""
+
 import operator
 
 def wordcount_descending(filename):

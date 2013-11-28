@@ -1,3 +1,6 @@
+""" Write a function unique to find all unique elements of a list.
+"""
+
 def unique(x):
 	a = []
 	for i in x:
